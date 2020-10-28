@@ -1,7 +1,7 @@
 <h1>Three.js SkyBox</h1>
 <h3> About: </h3>
 <p> 
-This simple program is an interactive that creates the illusion you're in a valley (requires server)<br>
+This simple program is an interactive that creates the illusion you're in a valley<br>
 hoping to start making more visualizations with three.js 
 </p>
 <h3> License MIT </h3>
